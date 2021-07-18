@@ -10,3 +10,21 @@ img{
     border: 3px solid black;
     border-radius: 15px;
 }
+
+
+/* Blogs Design starts */
+.blog-container{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: teal;
+    padding: 20px;
+    display: flex;
+    margin: 5px;
+}
+.blog-text{
+    color: white;
+    font-weight: 300;
+}
+.blog-title{
+    text-align: center;
+}
