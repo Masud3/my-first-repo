@@ -28,4 +28,21 @@ img{
 }
 .container{
     padding: 2px 16px;
+
+
+/* Blogs Design starts */
+.blog-container{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: teal;
+    padding: 20px;
+    display: flex;
+    margin: 5px;
+}
+.blog-text{
+    color: #27ca27;
+    font-weight: 300;
+}
+.blog-title{
+    text-align: center;
 }
